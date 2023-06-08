@@ -1,13 +1,13 @@
 {
-  "name": "itp_project",
+  "name": "ITP_refactor",
   "version": "0.1.0",
-  "description": "AOE Inspection Test Plan project",
-  "main": "server.js",
+  "description": "refactoring of AOE Inspection Test Plan project",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js",
-    "start_back": "node server.js",
-    "dev": "nodemon server.js"
+    "start": "nodemon app.js",
+    "start_back": "node app.js",
+    "dev": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
